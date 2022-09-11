@@ -20,6 +20,8 @@ cols = transpose
 boxes :: Matrix a -> [Row a]
 boxes = undefined
 
+
+
 main :: IO ()
 main = undefined
 
