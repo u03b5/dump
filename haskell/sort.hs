@@ -1,1 +1,0 @@
--- all the sorting algorithms i could learn implemented in haskell.
