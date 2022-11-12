@@ -1,6 +1,9 @@
 module Main where
-import Control.Monad
+-- simple 3-SAT solver
+
 
 
 main :: IO ()
 main = undefined
+
+
